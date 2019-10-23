@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-23T12:15:39.035Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="CnbnUUC8LuzWv9bBvTiQ" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-23T12:17:07.996Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="ybbtjmNBELdEvc8sJpkx" version="12.1.3" type="github" pages="1">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Page-1">
     <mxGraphModel dx="1220" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="F0zdkWA8xHgxaiHuRoWM-43" value="" style="dashed=0;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58536;gradientColor=none;dashed=0;strokeColor=#4D4D4D;strokeWidth=3;fontSize=16;fontColor=#808080;align=right;" vertex="1" parent="1">
           <mxGeometry x="208" y="332" width="52" height="36" as="geometry"/>
+        </mxCell>
+        <mxCell id="F0zdkWA8xHgxaiHuRoWM-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://image.flaticon.com/icons/png/512/28/28857.png;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="452" y="734" width="36" height="36" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
