@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T04:19:19.680Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="viTqN8NRIZJBc6BUKrwn" version="12.1.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-28T04:25:01.570Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="H3c3Vl0fxMDrOflmJnRy" version="12.1.4" type="github" pages="4">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1037" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,6 +240,14 @@
         <mxCell id="F0zdkWA8xHgxaiHuRoWM-51" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="658" y="902" width="36" height="38" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eKo_L3zEY7U7t1wExaDF" name="Page-4">
+    <mxGraphModel dx="1037" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lPZ2IOy-36sPH1HA-VrH-0"/>
+        <mxCell id="lPZ2IOy-36sPH1HA-VrH-1" parent="lPZ2IOy-36sPH1HA-VrH-0"/>
       </root>
     </mxGraphModel>
   </diagram>
