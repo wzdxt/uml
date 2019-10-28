@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T09:03:40.958Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="ZyhRpHrUdgIzbtZWuO8-" version="12.1.4" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-10-28T09:16:16.074Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="8jZBncI48H54_ien_gz7" version="12.1.4" type="github" pages="3">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1037" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -444,14 +444,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="EqB3BAnJcoaqOzf6_3i8" name="Use case">
-    <mxGraphModel dx="1037" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="UJ2tuAdbSmriAd75b2W2-0"/>
-        <mxCell id="UJ2tuAdbSmriAd75b2W2-1" parent="UJ2tuAdbSmriAd75b2W2-0"/>
       </root>
     </mxGraphModel>
   </diagram>
