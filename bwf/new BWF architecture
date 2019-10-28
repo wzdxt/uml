@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T11:16:45.057Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="mhrzwp6iJNj6bTi7TsjA" version="12.1.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-28T11:23:33.735Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="s8rchTK9RhFGPvTk9LBU" version="12.1.4" type="github" pages="3">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1037" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -622,7 +622,7 @@
           <mxGeometry x="2170" y="90" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="_ZfcAfno1M8ZW1SJXPuK-0" value="Redis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;labelBackgroundColor=#ffffff;strokeColor=#4D4D4D;strokeWidth=1;fontSize=16;fontColor=#000000;" vertex="1" parent="aeaqAs6TbOCkyrJk51r3-1">
-          <mxGeometry x="270" y="543.5" width="60" height="63" as="geometry"/>
+          <mxGeometry x="525" y="710" width="60" height="63" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
