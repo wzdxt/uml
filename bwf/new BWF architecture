@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-28T04:47:46.759Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="h164l0QRTi7euDgsiG49" version="12.1.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-28T04:49:24.933Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="i2niMzz64gNWkgxrDbvE" version="12.1.4" type="github" pages="3">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1037" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="F0zdkWA8xHgxaiHuRoWM-65" value="SQS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#759C3E;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=3;labelBackgroundColor=#ffffff;" parent="F0zdkWA8xHgxaiHuRoWM-74" vertex="1">
           <mxGeometry x="908" y="440" width="60" height="82.5" as="geometry"/>
         </mxCell>
-        <mxCell id="Ec3cxGhpmv1tJCTTmk5L-2" value="skip" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=16;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="F0zdkWA8xHgxaiHuRoWM-74" source="GE0Zvwxao1l-fyLvV2CW-5" target="F0zdkWA8xHgxaiHuRoWM-65">
+        <mxCell id="Ec3cxGhpmv1tJCTTmk5L-2" value="timeout" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#ffffff;strokeColor=#000000;strokeWidth=1;fontSize=16;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="F0zdkWA8xHgxaiHuRoWM-74" source="GE0Zvwxao1l-fyLvV2CW-5" target="F0zdkWA8xHgxaiHuRoWM-65">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="GE0Zvwxao1l-fyLvV2CW-2" value="distributed&lt;br&gt;lock" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;fontSize=16;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="F0zdkWA8xHgxaiHuRoWM-74">
