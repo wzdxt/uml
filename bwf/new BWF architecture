@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T10:29:09.606Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="o8WSNeUlcxw0ydM_ye2V" version="12.1.8" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-11-18T10:30:37.981Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="uiGxSxyg0bdVqrppTYy9" version="12.1.8" type="github" pages="6">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1249" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
         <mxCell id="9CDfDS47IOSR2H7rxGpm-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#ffffff;endArrow=classic;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#000000;align=center;dashed=1;" parent="1" source="9CDfDS47IOSR2H7rxGpm-1" target="F0zdkWA8xHgxaiHuRoWM-18" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="IDByNQJIRMZA2tQBmmCP-1" value="new deployment diagram" style="text;html=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IDByNQJIRMZA2tQBmmCP-1" value="new deployment diagram" style="text;html=1;fontSize=30;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="458" y="1870" width="241" height="30" as="geometry"/>
         </mxCell>
       </root>
