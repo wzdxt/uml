@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-26T06:55:39.563Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="bFcuA3LLMgb-G-Q4w7zX" version="12.3.0" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-11-26T06:59:36.913Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="7lJAFGtiJXXmYEBG-9Sr" version="12.3.0" type="github" pages="7">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
-    <mxGraphModel dx="1037" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="IDByNQJIRMZA2tQBmmCP-1" value="new deployment diagram" style="text;html=1;fontSize=30;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="458" y="1870" width="241" height="30" as="geometry"/>
+          <mxGeometry x="504.5" y="1770" width="241" height="27" as="geometry"/>
         </mxCell>
         <mxCell id="F0zdkWA8xHgxaiHuRoWM-43" value="" style="dashed=0;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58536;gradientColor=none;dashed=0;strokeColor=#4D4D4D;strokeWidth=3;fontSize=16;fontColor=#808080;align=right;" parent="1" vertex="1">
           <mxGeometry x="230" y="333" width="59" height="40" as="geometry"/>
@@ -1958,7 +1958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I9nAN5lzT2hCnXql3yPJ" name="compare">
-    <mxGraphModel dx="1037" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sUStdlB6dadtiGNA9NHz-0"/>
         <mxCell id="sUStdlB6dadtiGNA9NHz-1" parent="sUStdlB6dadtiGNA9NHz-0"/>
