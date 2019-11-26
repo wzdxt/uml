@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-26T04:53:14.779Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="IJMXbKwh0jWcKrjNLCl1" version="12.2.9" type="github" pages="7">
+<mxfile modified="2019-11-26T04:53:50.635Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="iTlDjVpXLTTlmNjD-4FO" version="12.2.9" type="github" pages="7">
   <diagram id="12d48d00-3a88-21cc-e926-9e3707213665" name="Business L1">
     <mxGraphModel dx="1037" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -827,7 +827,7 @@
           <mxGeometry x="290" y="1330" width="910" height="1120" as="geometry"/>
         </mxCell>
         <mxCell id="84Wgrh5Ta-9vImuVFe2c-68" value="" style="rounded=1;arcSize=5;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;labelBackgroundColor=#ffffff;fontSize=42;" parent="84Wgrh5Ta-9vImuVFe2c-70" vertex="1">
-          <mxGeometry y="150" width="880" height="970" as="geometry"/>
+          <mxGeometry y="150" width="820" height="970" as="geometry"/>
         </mxCell>
         <mxCell id="84Wgrh5Ta-9vImuVFe2c-69" value="" style="dashed=0;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58536;gradientColor=none;dashed=0;labelBackgroundColor=#ffffff;fontSize=42;" parent="84Wgrh5Ta-9vImuVFe2c-70" vertex="1">
           <mxGeometry x="30" y="130" width="52" height="36" as="geometry"/>
