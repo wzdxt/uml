@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T03:07:40.075Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="5kN9-yEYCyv2VV-XVf9G" version="12.3.0" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-11-27T03:22:52.835Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36" etag="XV1tsrCypuHhzB2Ie60y" version="12.3.0" type="github" pages="7">
   <diagram id="2cbLeE35jGOKZhUfAIeD" name="Deployment(aws)">
     <mxGraphModel dx="1037" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1993,7 +1993,7 @@
           <mxGeometry x="418.18853974122" y="339.1304347826087" width="68.76155268022181" height="68.69565217391305" as="geometry"/>
         </mxCell>
         <mxCell id="glB3rysxWY98cRZol8bf-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=4;" vertex="1" parent="sUStdlB6dadtiGNA9NHz-1">
-          <mxGeometry x="263.47504621072085" y="296.19565217391306" width="52.43068391866913" height="206.08695652173913" as="geometry"/>
+          <mxGeometry x="263" y="296" width="52" height="64" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
