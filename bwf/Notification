@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:07:58.690Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.7" etag="JWFWleQqkuPqdFK0UzKV" type="github" pages="7"><diagram id="GXaA0Lmv3YTKCLiF1qUD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-16T03:10:04.508Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="buSik8l1omTnNrboJnav" version="12.4.2" type="github" pages="1">
+  <diagram id="GXaA0Lmv3YTKCLiF1qUD" name="Page-1">
+    <mxGraphModel dx="1277" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="9C2afxXytdKNsIoNthU--1" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="63" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="9C2afxXytdKNsIoNthU--2" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="150" width="10" height="2261" as="geometry"/>
+        </mxCell>
+        <mxCell id="9C2afxXytdKNsIoNthU--3" value="BWF backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="100" height="510" as="geometry"/>
+        </mxCell>
+        <mxCell id="9C2afxXytdKNsIoNthU--4" value="Notification&lt;br&gt;backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="100" height="510" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
