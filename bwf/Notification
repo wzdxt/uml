@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:16:02.647Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="IDzMAmS3V4dqnwaDw-MF" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T03:16:16.441Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="S6rEGvIM4OuLOg5EYAgq" version="12.4.2" type="github" pages="1">
   <diagram id="GXaA0Lmv3YTKCLiF1qUD" name="Page-1">
     <mxGraphModel dx="1277" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="140" y="60" width="63" height="63" as="geometry"/>
         </mxCell>
         <mxCell id="9C2afxXytdKNsIoNthU--2" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="150" width="10" height="690" as="geometry"/>
+          <mxGeometry x="167" y="150" width="10" height="600" as="geometry"/>
         </mxCell>
         <mxCell id="9C2afxXytdKNsIoNthU--3" value="BWF backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="100" height="750" as="geometry"/>
+          <mxGeometry x="330" y="80" width="100" height="670" as="geometry"/>
         </mxCell>
         <mxCell id="9C2afxXytdKNsIoNthU--23" value="notify" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fillColor=#FFFF00;" vertex="1" parent="9C2afxXytdKNsIoNthU--3">
           <mxGeometry x="30" y="400" width="50" height="20" as="geometry"/>
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9C2afxXytdKNsIoNthU--4" value="Notification&lt;br&gt;backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="80" width="100" height="760" as="geometry"/>
+          <mxGeometry x="590" y="80" width="100" height="670" as="geometry"/>
         </mxCell>
         <mxCell id="9C2afxXytdKNsIoNthU--10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;fillColor=#ffffff;fontSize=14;align=center;" vertex="1" parent="9C2afxXytdKNsIoNthU--4">
           <mxGeometry x="45" y="132" width="10" height="40" as="geometry"/>
