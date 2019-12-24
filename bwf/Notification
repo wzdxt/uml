@@ -1,5 +1,5 @@
-<mxfile host="www.draw.io" modified="2019-12-16T03:16:51.874Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="65n5q_TOtb7aDNdS9lX6" version="12.4.2" type="github" pages="1">
-  <diagram id="GXaA0Lmv3YTKCLiF1qUD" name="Page-1">
+<mxfile host="www.draw.io" modified="2019-12-24T04:48:51.876Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YWKiqc-3aevGM0IpOOBO" version="12.4.2" type="github" pages="2">
+  <diagram id="GXaA0Lmv3YTKCLiF1qUD" name="BWF notification">
     <mxGraphModel dx="1277" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
@@ -103,6 +103,14 @@
             <mxPoint x="575" y="680" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZhSgOv_Dpp00oBRFx3ZJ" name="Notification Tray">
+    <mxGraphModel dx="1277" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pGjOi0Az7h6dQEr7TqoL-0"/>
+        <mxCell id="pGjOi0Az7h6dQEr7TqoL-1" parent="pGjOi0Az7h6dQEr7TqoL-0"/>
       </root>
     </mxGraphModel>
   </diagram>
