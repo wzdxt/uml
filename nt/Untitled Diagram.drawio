@@ -1,1 +1,255 @@
-<mxfile host="www.draw.io" modified="2020-03-05T12:09:44.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="HJHxB2hhX7CwdCCNj47U" version="12.7.9" type="github"><diagram id="WIjOmhpNo9wjfHVVApIA" name="Page-1">7VvRcqM2FP0az7QPzQACYT8m9mbbnbSTmXSS7VNHBhmrEYgKOXby9ZUQYIPwxs0agp19SdBFAumcq8s9FzwC03jzmaN0+TsLMR05VrgZgdnIcSYulH+V4VkboD3RhoiTUJvsreGOvODCaBXWFQlxVusoGKOCpHVjwJIEB6JmQ5yzdb3bgtH6XVMUYcNwFyBqWh9IKJbaOnb8rf1XTKJleWcbFuuLUdm5WEm2RCFb75jApxGYcsaEPoo3U0wVdiUuetz1nrPVxDhOxCED4Jf7+38u7wPmo3+/fE5uNtGD84unr/KE6KpY8JQSdUE9ZfFc4sBWgpIETyuYrRG4ClG2xGHReMJcEAncDZpjessyIghL5Lk5E4LFOx0uKYnUCcFSaUVFK5B3xVwaliKmsm3LQwlZqu4fbyLlXBdonYGLGCUS9Fh2/1uSnjE1w6sFoXTKKOP5bMHMmYEZkHY5LlTrKc8lLMm7s0QUvmZD2S5QkBPEm73w2hVp0tkxi7Hgz7JLOcAteC4dvWiut14DgTYtdxymtKHCT6Pqwlsq5UHB5v9gdmIwa3CqCFUoC84eK+9WuIeES5I1fZlkflmnZRfsFkDdNlYrV7GPBDf0a3Dbnol3GUN28fbLfkcH3LYNxP9ggiykyyso/+RI3kNGQ2Cr3TJHwSNOQoOT0uUDFqcSWgWGCWaWooAk0Q1eqFUBq4WAI0AMrLpH+y0IOy0Qw84Qds7bpwGsA26DA33a7wxx10D86uH6tNzYnQzNjc2H7lm5see90Y27QxwaiP92/fW03BiOh+bG/nm7se8OLRqX9H4L8R0QU0YSkc/Buxp5M2XBnMipKLhmjIsli1iC6O3W2klmNj4MNzjpDDczMxsgboa/TQ7Dze0MNjPdirBQo5J0pf/LxS9QgOUxJZky/YRSYv/8LXSbKrCShzL+XirBrmyUBY+5Sa7j60jry7zxV9HQd8BhQ7wLxNUUX3cFgxY5XbbiAX51+5n8cUxlhv9Un0kbG8XQW+VfO4Hd38N7eQk9sWJUg9NqGt9BMzBo5lisePK9LLIUJ824LE8XQXysWhsiKnrlcc7uxcTbT/DrJO0n+HXn6IdgB8L6JfTEuiPYTOIHGP6a4sc5MPyBzsKfmabr8JfsqHrZLCpjKvI5Q4587uAin9NQZk4zc+o68pmy4JQj336C3yvyNQkGbs+Rz5QoFL2ohVGGpNqDVAm6OZdHkTrS+1uBYRGBYwWmDG+qN0sNnyi14Sqm1xzFSqOsl3LYXYpyntYcpXVVU0aysWK9imG+dZwA2lDdTktB1G0TiLbVWQQdG/AjPaolgSRZQQs2ZbgERdShNNRfc1vGJAzzNwMcZ+QFzfNLWa2PN7QSLCuUpfkqYbFYOEFQididMyGcQ+9Ibw8m9oVX3yrQNR9/sIU+pzP2DniD8P5pQ1M1udY7q6YyHzHSBpknDFU2vemRMenkkWH7fjufPeUEwKwVDDcneFMu1xNvYNzrox6YxYoBRqumyPEOjFadiRxgiv8Bi5y3xCntGJ37u9d3nDJF/XnFqb54c8Zl5tVXpDLrCh9GlLgtX8X0LEqAKfq1KGnNz36okvpu8T3zedWrKgGmpA+RQKP8C8B8sSVrGYkJRfwD0mZbTo01aAGTNbdX1vZVAhrc8R9brrnlYNtr53633EkUAppfncADXzt3Vghw9xUC5kgESzUxxh8XVCZdp1wGAP3IyYrNntJr99zLAD3x5tv9lgHckywD+AfGqs7KAO7ZlwHcfuSk33ecOvcyQE+8ja2+ywDuBy4DVC9tuigDyOb2R1Ware0v08Cn/wA=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-05T12:18:27.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="n7tf_bVDy5Qehk2N1nVP" version="12.7.9" type="github" pages="2">
+  <diagram id="WIjOmhpNo9wjfHVVApIA" name="Page-1">
+    <mxGraphModel dx="946" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-5" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="140" y="60" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-9" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="167" y="150" width="10" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-11" value="NotificationTray&#xa;backend" style="shape=component;align=center;spacingLeft=30;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-12" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="130" width="10" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-14" value="BWF&#xa;backend" style="shape=component;align=center;spacingLeft=30;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-15" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="130" width="10" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-16" value="IFX&#xa;backend" style="shape=component;align=center;spacingLeft=30;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="680" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-17" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="130" width="10" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="167" y="180" width="10" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="740" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-22" value="get input interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="6JVVjAVco7aqJGnLxgW2-20" target="6JVVjAVco7aqJGnLxgW2-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-23" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-21" target="6JVVjAVco7aqJGnLxgW2-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="360" y="290" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-25" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="6JVVjAVco7aqJGnLxgW2-20" target="6JVVjAVco7aqJGnLxgW2-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-26" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-24" target="6JVVjAVco7aqJGnLxgW2-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-27" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-28" value="all input interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="91.5" y="364" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="740" y="400" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-30" value="get output interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="6JVVjAVco7aqJGnLxgW2-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="360" y="500" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-33" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="6JVVjAVco7aqJGnLxgW2-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-34" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="528.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-35" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" parent="1" vertex="1">
+          <mxGeometry x="50" y="460" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-36" value="all output interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="91.5" y="575" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-37" value="data converte is similar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="102" y="603" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-38" value="all data converter is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="91.5" y="630" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="550" y="680" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-40" value="get batch workflow list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="6JVVjAVco7aqJGnLxgW2-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-41" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="360" y="780" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-43" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="6JVVjAVco7aqJGnLxgW2-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-44" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="6JVVjAVco7aqJGnLxgW2-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="808.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6JVVjAVco7aqJGnLxgW2-45" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" parent="1" vertex="1">
+          <mxGeometry x="50" y="740" width="420" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="q0K_k1lCCvVoQwI9MvGk">
+    <mxGraphModel dx="946" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-0" />
+        <mxCell id="FRRo3CcrrdamHvMOseyx-1" parent="FRRo3CcrrdamHvMOseyx-0" />
+        <mxCell id="FRRo3CcrrdamHvMOseyx-2" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontSize=16;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="140" y="60" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-3" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="167" y="150" width="10" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-4" value="NotificationTray&#xa;backend" style="shape=component;align=center;spacingLeft=30;fontSize=14;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-5" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="360" y="130" width="10" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="167" y="180" width="10" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-12" value="get input interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="190" as="sourcePoint" />
+            <mxPoint x="740" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="266" as="targetPoint" />
+            <mxPoint x="740" y="228" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="360" y="290" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-15" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10" target="FRRo3CcrrdamHvMOseyx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-16" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-14" target="FRRo3CcrrdamHvMOseyx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-17" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="50" y="250" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-18" value="all input interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="91.5" y="364" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-20" value="get output interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="400" as="sourcePoint" />
+            <mxPoint x="740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="438" as="targetPoint" />
+            <mxPoint x="740" y="438" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="360" y="500" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-23" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-24" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="528.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-25" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="50" y="460" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-26" value="all output interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="91.5" y="575" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-27" value="data converte is similar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="102" y="603" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-28" value="all data converter is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="91.5" y="630" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-30" value="get batch workflow list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="680" as="sourcePoint" />
+            <mxPoint x="550" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="718" as="targetPoint" />
+            <mxPoint x="550" y="718" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="360" y="780" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-33" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-34" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="808.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-35" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="50" y="740" width="420" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
