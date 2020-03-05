@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T12:18:27.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="n7tf_bVDy5Qehk2N1nVP" version="12.7.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-05T12:19:57.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="SXXiaDqjqxe6VGnCgwjE" version="12.7.9" type="github" pages="2">
   <diagram id="WIjOmhpNo9wjfHVVApIA" name="Page-1">
     <mxGraphModel dx="946" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,37 +138,41 @@
       <root>
         <mxCell id="FRRo3CcrrdamHvMOseyx-0" />
         <mxCell id="FRRo3CcrrdamHvMOseyx-1" parent="FRRo3CcrrdamHvMOseyx-0" />
+        <mxCell id="FRRo3CcrrdamHvMOseyx-17" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="50" y="250" width="420" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-2" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontSize=16;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
           <mxGeometry x="140" y="60" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-3" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="167" y="150" width="10" height="750" as="geometry" />
+          <mxGeometry x="167" y="150" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-4" value="NotificationTray&#xa;backend" style="shape=component;align=center;spacingLeft=30;fontSize=14;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
           <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-5" value="" style="line;strokeWidth=1;direction=south;html=1;fillColor=none;fontSize=14;align=center;dashed=1;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="360" y="130" width="10" height="770" as="geometry" />
+          <mxGeometry x="360" y="130" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="167" y="180" width="10" height="690" as="geometry" />
+          <mxGeometry x="167" y="180" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-12" value="get input interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10">
+        <mxCell id="FRRo3CcrrdamHvMOseyx-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
+          <mxGeometry x="360" y="190" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FRRo3CcrrdamHvMOseyx-12" value="get notification list (api3)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10" target="FRRo3CcrrdamHvMOseyx-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="190" as="sourcePoint" />
-            <mxPoint x="740" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-10">
+        <mxCell id="FRRo3CcrrdamHvMOseyx-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-11" target="FRRo3CcrrdamHvMOseyx-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="266" as="targetPoint" />
-            <mxPoint x="740" y="228" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FRRo3CcrrdamHvMOseyx-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
           <mxGeometry x="360" y="290" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-15" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10" target="FRRo3CcrrdamHvMOseyx-14">
+        <mxCell id="FRRo3CcrrdamHvMOseyx-15" value="get notification outline(api4)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-10" target="FRRo3CcrrdamHvMOseyx-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="270" as="sourcePoint" />
           </mxGeometry>
@@ -177,77 +181,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="346" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-17" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="50" y="250" width="420" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-18" value="all input interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="91.5" y="364" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-20" value="get output interface list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="400" as="sourcePoint" />
-            <mxPoint x="740" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-21" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="438" as="targetPoint" />
-            <mxPoint x="740" y="438" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="360" y="500" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-23" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="500" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-24" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="528.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-25" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="50" y="460" width="420" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-26" value="all output interface is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="91.5" y="575" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-27" value="data converte is similar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="102" y="603" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-28" value="all data converter is loaded" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="91.5" y="630" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-30" value="get batch workflow list (api1)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="680" as="sourcePoint" />
-            <mxPoint x="550" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-31" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="718" as="targetPoint" />
-            <mxPoint x="550" y="718" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="360" y="780" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-33" value="get notification outline(api2)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" target="FRRo3CcrrdamHvMOseyx-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="780" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-34" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="FRRo3CcrrdamHvMOseyx-1" source="FRRo3CcrrdamHvMOseyx-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="808.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FRRo3CcrrdamHvMOseyx-35" value="lazy load&lt;br&gt;get 20 item per loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=70;" vertex="1" parent="FRRo3CcrrdamHvMOseyx-1">
-          <mxGeometry x="50" y="740" width="420" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
